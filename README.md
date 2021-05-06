@@ -7,6 +7,8 @@
 [![Code Coverage][ico-code-quality]][link-code-quality]
 [![Total Downloads][ico-downloads]][link-downloads]
 
+> This project has been renamed, see [`owenvoke/arionum-php`](https://github.com/owenvoke/arionum-php).
+
 An API wrapper for the Arionum cryptocurrency node.
 
 ## Install
